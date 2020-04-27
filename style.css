@@ -5,7 +5,7 @@ body {
 
 #stage {
   margin: 0 auto;
-  width: 900px;
+  width: 600px;
   padding: 0 0 40px;
 }
 
@@ -20,8 +20,8 @@ body {
 
 #rotate {
   margin: 0 auto 0;
-  width: 450px;
-  height: 220px;
+  width: 550px;
+  height: 280px;
   padding-top: 200px;
   /* Ensure that we're in 3D space */
   -webkit-transform-style: preserve-3d;
